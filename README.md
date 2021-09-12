@@ -2,8 +2,8 @@
 
  Scams such as false YouTube Giveaways have to attract hundreds or thousands of viewers to be successful.
 
- Technical solutions could automate detection of Scam Videos but these solutions require development and a large number of views to design and train the systems.  
- Meanwhile people lose money and the credibility of the mimicked projects will suffer.
+ Technical solutions could automate detection of Scam Videos but require development and many views to design and train the systems.  
+ Meanwhile people lose money and the credibility of the mimicked projects suffers.
 
  Can we use the crowds viewing scam videos to protect and prevent the scams? 
  Many views are required for these scams to work and there are probably at least 10 times as many viewers as victims. 
@@ -17,7 +17,7 @@
 
  Scams are bad news for the projects mimicked by the scammers. These projects may be happy to offer rewards to teams of scam 'nukers'.
  
- I've started this blog on Substack but I created this Repo to get fresh skills.  I've been a dinosaur in a SAP ABAP silo for 20+ years. 
+ I started this blog on Substack but I created this Repo to get fresh skills and see which processes can be swiftly automates.  I've been a dinosaur in a SAP ABAP silo for 20       years. 
 
  I'm interested in learning Haskell and may follow up with SQL3 and Purescript or Imba for the Front-End.  
  If anyone with relevant skills wants to collaborate, give me a shout!
