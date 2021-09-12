@@ -17,7 +17,8 @@
 
  Scams are bad news for the projects mimicked by the scammers. These projects may be happy to offer rewards to teams of scam 'nukers'.
  
- I started this blog on Substack but I created this Repo to get fresh skills and see which processes can be swiftly automates.  I've been a dinosaur in a SAP ABAP silo for 20       years. 
+ I started this blog on Substack but I created this Repo to get fresh skills and see which processes can be automated.  
+ I've been a dinosaur in a SAP ABAP silo for too long. 
 
  I'm interested in learning Haskell and may follow up with SQL3 and Purescript or Imba for the Front-End.  
  If anyone with relevant skills wants to collaborate, give me a shout!
