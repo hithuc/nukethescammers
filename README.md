@@ -26,5 +26,5 @@
  Video giveaway scams won't go away quickly because the companies providing the platforms aren't directly hurt by them.  
  This could be the basis of a viable project.  
 
-Framework: Zola
-Deployment: Netlify
+- Framework: Zola
+- Deployment: Netlify
